@@ -1,0 +1,3 @@
+/Hello world1/.vs
+/Hello world1/Hello world1/bin
+/Hello world1/Hello world1/obj
